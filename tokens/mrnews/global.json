@@ -1,0 +1,68 @@
+{
+  "color": {
+    "red": {
+      "value": "#E61D15",
+      "type": "color"
+    },
+    "white": {
+      "value": "#FFFFFF",
+      "type": "color"
+    },
+    "black": {
+      "value": "#212020",
+      "type": "color"
+    },
+    "grey-300": {
+      "value": "#949494",
+      "type": "color"
+    },
+    "grey-500": {
+      "value": "#666666",
+      "type": "color"
+    }
+  },
+  "sizing": {
+    "1": {
+      "value": "4",
+      "type": "sizing"
+    },
+    "2": {
+      "value": "{sizing.1}*2",
+      "type": "sizing"
+    },
+    "3": {
+      "value": "{sizing.1}*3",
+      "type": "sizing"
+    },
+    "4": {
+      "value": "{sizing.1}*4",
+      "type": "sizing"
+    },
+    "5": {
+      "value": "{sizing.1}*5",
+      "type": "sizing"
+    }
+  },
+  "spacing": {
+    "1": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "2": {
+      "value": "{spacing.1}*2",
+      "type": "spacing"
+    },
+    "3": {
+      "value": "{spacing.1}*3",
+      "type": "spacing"
+    },
+    "4": {
+      "value": "{spacing.1}*4",
+      "type": "spacing"
+    },
+    "5": {
+      "value": "{spacing.1}*5",
+      "type": "spacing"
+    }
+  }
+}

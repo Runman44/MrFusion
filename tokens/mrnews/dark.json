@@ -1,0 +1,10 @@
+{
+  "color": {
+    "foreground": {
+      "primary": {
+        "value": "# {color.white}",
+        "type": "color"
+      }
+    }
+  }
+}
