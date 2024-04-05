@@ -2,7 +2,7 @@
   "color": {
     "foreground": {
       "primary": {
-        "value": "{color.white}",
+        "value": "{core.color.white}",
         "type": "color"
       }
     }
