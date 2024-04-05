@@ -1,9 +1,11 @@
 {
   "color": {
-    "foreground": {
-      "primary": {
-        "value": "{color.core.grey-500}",
-        "type": "color"
+    "light": {
+      "foreground": {
+        "primary": {
+          "value": "{color.core.grey-500}",
+          "type": "color"
+        }
       }
     }
   }
