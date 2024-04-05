@@ -1,9 +1,369 @@
 {
   "color": {
     "light": {
-      "foreground": {
+      "soccer": {
         "primary": {
-          "value": "{color.core.grey-500}",
+          "value": "#C0000A",
+          "type": "color"
+        },
+        "onPrimary": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "primaryContainer": {
+          "value": "#FFDAD5",
+          "type": "color"
+        },
+        "onPrimaryContainer": {
+          "value": "#410001",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#775652",
+          "type": "color"
+        },
+        "onSecondary": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "secondaryContainer": {
+          "value": "#FFDAD5",
+          "type": "color"
+        },
+        "onSecondaryContainer": {
+          "value": "#2C1512",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#705C2E",
+          "type": "color"
+        },
+        "onTertiary": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "tertiaryContainer": {
+          "value": "#FCDFA6",
+          "type": "color"
+        },
+        "onTertiaryContainer": {
+          "value": "#261A00",
+          "type": "color"
+        },
+        "error": {
+          "value": "#BA1A1A",
+          "type": "color"
+        },
+        "errorContainer": {
+          "value": "#FFDAD6",
+          "type": "color"
+        },
+        "onError": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "onErrorContainer": {
+          "value": "#410002",
+          "type": "color"
+        },
+        "background": {
+          "value": "#FFFBFF",
+          "type": "color"
+        },
+        "onBackground": {
+          "value": "#201A19",
+          "type": "color"
+        },
+        "surface": {
+          "value": "#FFFBFF",
+          "type": "color"
+        },
+        "onSurface": {
+          "value": "#201A19",
+          "type": "color"
+        },
+        "surfaceVariant": {
+          "value": "#F5DDDA",
+          "type": "color"
+        },
+        "onSurfaceVariant": {
+          "value": "#534341",
+          "type": "color"
+        },
+        "outline": {
+          "value": "#857370",
+          "type": "color"
+        },
+        "inverseOnSurface": {
+          "value": "#FBEEEC",
+          "type": "color"
+        },
+        "inverseSurface": {
+          "value": "#362F2E",
+          "type": "color"
+        },
+        "inversePrimary": {
+          "value": "#FFB4AA",
+          "type": "color"
+        },
+        "shadow": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "surfaceTint": {
+          "value": "#C0000A",
+          "type": "color"
+        },
+        "outlineVariant": {
+          "value": "#D8C2BE",
+          "type": "color"
+        },
+        "scrim": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "news": {
+        "primary": {
+          "value": "#006874",
+          "type": "color"
+        },
+        "onPrimary": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "primaryContainer": {
+          "value": "#97F0FF",
+          "type": "color"
+        },
+        "onPrimaryContainer": {
+          "value": "#001F24",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#4A6267",
+          "type": "color"
+        },
+        "onSecondary": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "secondaryContainer": {
+          "value": "#CDE7EC",
+          "type": "color"
+        },
+        "onSecondaryContainer": {
+          "value": "#051F23",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#525E7D",
+          "type": "color"
+        },
+        "onTertiary": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "tertiaryContainer": {
+          "value": "#DAE2FF",
+          "type": "color"
+        },
+        "onTertiaryContainer": {
+          "value": "#0E1B37",
+          "type": "color"
+        },
+        "error": {
+          "value": "#BA1A1A",
+          "type": "color"
+        },
+        "errorContainer": {
+          "value": "#FFDAD6",
+          "type": "color"
+        },
+        "onError": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "onErrorContainer": {
+          "value": "#410002",
+          "type": "color"
+        },
+        "background": {
+          "value": "#FAFDFD",
+          "type": "color"
+        },
+        "onBackground": {
+          "value": "#191C1D",
+          "type": "color"
+        },
+        "surface": {
+          "value": "#FAFDFD",
+          "type": "color"
+        },
+        "onSurface": {
+          "value": "#191C1D",
+          "type": "color"
+        },
+        "surfaceVariant": {
+          "value": "#DBE4E6",
+          "type": "color"
+        },
+        "onSurfaceVariant": {
+          "value": "#3F484A",
+          "type": "color"
+        },
+        "outline": {
+          "value": "#6F797A",
+          "type": "color"
+        },
+        "inverseOnSurface": {
+          "value": "#EFF1F1",
+          "type": "color"
+        },
+        "inverseSurface": {
+          "value": "#2E3132",
+          "type": "color"
+        },
+        "inversePrimary": {
+          "value": "#4FD8EB",
+          "type": "color"
+        },
+        "shadow": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "surfaceTint": {
+          "value": "#006874",
+          "type": "color"
+        },
+        "outlineVariant": {
+          "value": "#BFC8CA",
+          "type": "color"
+        },
+        "scrim": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "olympic": {
+        "primary": {
+          "value": "#7D39C5",
+          "type": "color"
+        },
+        "onPrimary": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "primaryContainer": {
+          "value": "#EFDBFF",
+          "type": "color"
+        },
+        "onPrimaryContainer": {
+          "value": "#2B0052",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#655A6F",
+          "type": "color"
+        },
+        "onSecondary": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "secondaryContainer": {
+          "value": "#ECDDF6",
+          "type": "color"
+        },
+        "onSecondaryContainer": {
+          "value": "#20182A",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#805159",
+          "type": "color"
+        },
+        "onTertiary": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "tertiaryContainer": {
+          "value": "#FFD9DD",
+          "type": "color"
+        },
+        "onTertiaryContainer": {
+          "value": "#321017",
+          "type": "color"
+        },
+        "error": {
+          "value": "#BA1A1A",
+          "type": "color"
+        },
+        "errorContainer": {
+          "value": "#FFDAD6",
+          "type": "color"
+        },
+        "onError": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "onErrorContainer": {
+          "value": "#410002",
+          "type": "color"
+        },
+        "background": {
+          "value": "#FFFBFF",
+          "type": "color"
+        },
+        "onBackground": {
+          "value": "#1D1B1E",
+          "type": "color"
+        },
+        "surface": {
+          "value": "#FFFBFF",
+          "type": "color"
+        },
+        "onSurface": {
+          "value": "#1D1B1E",
+          "type": "color"
+        },
+        "surfaceVariant": {
+          "value": "#E9E0EB",
+          "type": "color"
+        },
+        "onSurfaceVariant": {
+          "value": "#4A454E",
+          "type": "color"
+        },
+        "outline": {
+          "value": "#7B757F",
+          "type": "color"
+        },
+        "inverseOnSurface": {
+          "value": "#F5EFF4",
+          "type": "color"
+        },
+        "inverseSurface": {
+          "value": "#322F33",
+          "type": "color"
+        },
+        "inversePrimary": {
+          "value": "#DBB8FF",
+          "type": "color"
+        },
+        "shadow": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "surfaceTint": {
+          "value": "#7D39C5",
+          "type": "color"
+        },
+        "outlineVariant": {
+          "value": "#CCC4CF",
+          "type": "color"
+        },
+        "scrim": {
+          "value": "#000000",
           "type": "color"
         }
       }
