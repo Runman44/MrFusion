@@ -1,0 +1,14 @@
+{
+    "name": "mr-fushion",
+    "version": "0.1.0",
+    "description": "Generate Tokens for iOS and Android",
+    "main": "config.js",
+    "scripts": {
+        "generate": "cd dist && node ./config.js",
+        "build": "tsc --build && cp \"./package.json\" ./dist/ && cp -p -r ./tokens/ ./dist/tokens && yarn generate"
+    },
+    "devDependencies": {
+        "style-dictionary": "^3.9.2",
+        "typescript": "^5.4.3"
+    }
+}
